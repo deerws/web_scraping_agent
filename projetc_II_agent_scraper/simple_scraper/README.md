@@ -1,4 +1,4 @@
-# Real Estate Scraper
+# Simple Web Scraper
 
 ## Description
 This project is a Python script for web scraping real estate websites in Brazil, extracting detailed information about listed properties and saving the results in CSV files. The script uses the `ScrapeGraphAI` library with a local language model (Ollama) to process page content and extract structured data.
